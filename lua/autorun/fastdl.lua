@@ -1,0 +1,17 @@
+if ( SERVER ) then
+	resource.AddFile( "sound/music/bonescuffle.mp3" )
+	resource.AddFile( "sound/music/CUL_BC.mp3" )
+	resource.AddFile( "sound/music/DD_BASA.mp3" )
+	resource.AddFile( "sound/music/dual_mix_blook.mp3" )
+	resource.AddFile( "sound/music/dual_mix_muffet.mp3" )
+	resource.AddFile( "sound/music/MK_BatB.mp3" )
+	resource.AddFile( "sound/music/ML_DDSS.mp3" )
+	resource.AddFile( "sound/music/M_HnT_E.mp3" )
+	resource.AddFile( "sound/music/M_HnT_J.mp3" )
+	resource.AddFile( "sound/music/M_RE.mp3" )
+	resource.AddFile( "sound/music/SK_HoS.mp3" )
+	resource.AddFile( "sound/music/SK_WYG.mp3" )
+	resource.AddFile( "sound/music/vcld_grim_grinning_ghosts.mp3" )
+	resource.AddFile( "sound/music/vcld_this_is_halloween.mp3" )
+	resource.AddFile( "sound/music/VOC_TO.mp3" )
+end
